@@ -1,4 +1,4 @@
-# Newsletter/Blog Writer - AI Agent
+# Autonomous Blog & Newsletter Writer
 An AI agent that can compose newsletter or blogs autonomously
 
 
